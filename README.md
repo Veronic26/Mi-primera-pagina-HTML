@@ -1,3 +1,23 @@
 # Mi-primera-pagina-HTM
 
 Este repositorio es utilizado para subir la actividad de Programación Integrativa de componentes WEB
+
+Descripción:
+
+Este archivo HTML fue creado como parte de una actividad para aprender los fundamentos básicos del lenguaje HTML. Contiene elementos esenciales como títulos, párrafos, imágenes, enlaces y listas.
+
+Contenido del archivo:
+
+Un título principal (<h1>) que introduce la página.
+
+Un párrafo descriptivo (<p>) que explica brevemente el propósito.
+
+Una imagen insertada desde internet usando la etiqueta <img>.
+
+Un enlace (<a>) hacia otro sitio web.
+
+Una lista ordenada (<ol>) con películas favoritas.
+
+Una lista desordenada (<ul>) con canciones favoritas.
+
+Estilos CSS embebidos en la misma página, aplicando color, tipografía y espaciado básico.
