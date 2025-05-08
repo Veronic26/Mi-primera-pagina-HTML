@@ -14,4 +14,4 @@ Una imagen insertada desde internet usando la etiqueta <img>.
 Un enlace (<a>) hacia otro sitio web.
 Una lista ordenada (ol) con películas favoritas.
 Una lista desordenada (ul) con canciones favoritas.
-Estilos CSS embebidos en la misma página, aplicando color, tipografía y espaciado básico.
+Estilos CSS que conectan en la misma página, aplicando color, tipografía y espaciado básico.
