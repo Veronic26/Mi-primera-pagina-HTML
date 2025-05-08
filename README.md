@@ -8,10 +8,10 @@ Este archivo HTML fue creado como parte de una actividad para aprender los funda
 
 Contenido del archivo:
 
-Un título principal (<h1>) que introduce la página.
-Un párrafo descriptivo (<p>) que explica brevemente el propósito.
+Un título principal (h1) que introduce la página.
+Un párrafo descriptivo (p) que explica brevemente el propósito.
 Una imagen insertada desde internet usando la etiqueta <img>.
 Un enlace (<a>) hacia otro sitio web.
-Una lista ordenada (<ol>) con películas favoritas.
-Una lista desordenada (<ul>) con canciones favoritas.
+Una lista ordenada (ol) con películas favoritas.
+Una lista desordenada (ul) con canciones favoritas.
 Estilos CSS embebidos en la misma página, aplicando color, tipografía y espaciado básico.
